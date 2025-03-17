@@ -2,7 +2,7 @@
   <img src="https://gptme.org/media/logo.png" width=150 />
 </p>
 
-<h1 align="center">gptme</h1>
+<h1 align="center">NOT MINE !! gptme</h1>
 
 <p align="center">
 <i>/ʤiː piː tiː miː/</i>
